@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+     <remote name="origin" fetch="https://github.com/Merry1227" />
+
+     <default revision="master" />
+
+     <project path="JavaBasic" name="JavaBasic">
+
+     <project path="spring" name="spring">
+
+</manifest>
